@@ -1,16 +1,18 @@
-# rock_paper_scissors
+# Rock Paper Scissors
+A mobile game version of the popular rock paper scissor game implemented in flutter.
 
-A new Flutter project.
+This project was mainly done as part of a course assignment (CSE-2216 at [University of Dhaka](https://www.du.ac.bd/))
 
-## Getting Started
+## Features
+- Single and Multiplayer modes
+- Clicky buttons
+- Descriptive and slick UI
 
-This project is a starting point for a Flutter application.
+## Things you'll need
+- [Android SDK](https://developer.android.com/)
+- [Flutter (v 1.7.8)](https://flutter.dev/)
 
-A few resources to get you started if this is your first Flutter project:
+**NB.** You can also try building for IOS but I haven't tested that so you'll have to do so at your own discretion.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Video Demo
+You can find the video demo for this app [here](https://youtu.be/iQEz8zvxtqA)
